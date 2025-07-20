@@ -4,7 +4,6 @@
 
 🎓 I'm an Integrated B.Tech + M.Tech Computer Science student from JIIT Noida.  
 💻 I love building full-stack applications and exploring AI-based solutions.  
-🚀 I'm currently working as a MERN Stack Developer Intern @ Distance Connect.  
 📈 I'm passionate about open source and building impactful projects.
 
 ## 💻 Tech Stack
